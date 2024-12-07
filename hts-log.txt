@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Sat, 07 Dec 2024 19:48:55 at https://transvelo.github.io/electro-html/home.html
+(httrack https://transvelo.github.io/electro-html/home.html -O /Users/thiemdao/Desktop/project/theme/electro-html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:51:33	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/home-v3-full-color-background.html (from https://transvelo.github.io/electro-html/home.html)
+19:51:52	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/hsingle-product.html (from https://transvelo.github.io/electro-html/home.html)
+19:52:15	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://transvelo.github.io/electro-html/assets/js/jquery.min.js (from https://transvelo.github.io/electro-html/home.html)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/unknown.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/visa.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/mastercard.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/laser.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/diners.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/maestro.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/jcb.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/amex.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/assets/css/assets/images/credit-cards/discover.svg (from https://transvelo.github.io/electro-html/assets/css/style.css)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/blog.html (from https://transvelo.github.io/electro-html/track-your-order.html)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/login-and-register.html (from https://transvelo.github.io/electro-html/my-account.html)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/images/products/thumb1.jpg (from https://transvelo.github.io/electro-html/home-v3.html)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/images/products/thumb2.jpg (from https://transvelo.github.io/electro-html/home-v3.html)
+19:52:15	Error: 	"Not Found" (404) at link https://transvelo.github.io/electro-html/images/products/thumb3.jpg (from https://transvelo.github.io/electro-html/home-v3.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 40 seconds : 170 links scanned, 151 files written (11997378 bytes overall) [4098535 bytes received at 18629 bytes/sec], 12117663 bytes transferred using HTTP compression in 93 files, ratio 12%, 10.5 requests per connection
+(16 errors, 1 warnings, 0 messages)
